@@ -24,7 +24,7 @@
     "gulp-sass": "^5.1.0",
     "gulp-sourcemaps": "^3.0.0",
     "sass": "^1.77.8",
-    "nanasess-sc5-styleguide": "latest",
+    "nanasess-sc5-styleguide": "4.1.2",
     "webpack": "^5.76.0",
     "webpack-stream": "^7.0.0"
   },
