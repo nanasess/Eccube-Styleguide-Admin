@@ -36,6 +36,8 @@
     "node": ">=16"
   },
   "overrides": {
-    "node-sass": "npm:sass@^1.69.5"
+    "node-sass": "npm:sass@^1.69.5",
+    "deep-extend": "^0.6.0",
+    "lodash": "^4.17.21"
   }
 }
